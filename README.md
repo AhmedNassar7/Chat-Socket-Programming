@@ -1,2 +1,2 @@
-# Chat-Socket-Programming
-A chat between server and client with database by socket programming that send text, image, audio and more like whats app  
+# Chat-by-Socket-Programming
+A chat between server and client with database and GUI that each of them can send or receive text, image and more like whats app which is involved in oop and UI concepts.  
