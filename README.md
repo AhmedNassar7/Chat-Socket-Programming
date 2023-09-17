@@ -1,6 +1,5 @@
 # Chat-by-Socket-Programming 
-Developed a chat application using socket programming in Java, incorporating object-oriented programming (OOP) principles and integrating a SQL database for message storage. The application enables real-time communication between multiple clients connected to a central server.
-                                                            --------------------------------------------------
+Developed a chat application using socket programming in Java, incorporating object-oriented programming (OOP) principles and integrating a SQL database for message storage. The application enables real-time communication between multiple clients connected to a central server. 
 Designed and implemented the client-server architecture using socket programming in Java, allowing clients to connect to the server and exchange messages.
 Developed the server component to handle incoming client connections, manage message routing, and ensure reliable message delivery.
 Implemented the client component with a user-friendly interface, supporting user input and displaying received messages.
