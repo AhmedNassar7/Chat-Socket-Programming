@@ -66,11 +66,3 @@ Feel free to open a pull request or report issues if you would like to contribut
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any inquiries or suggestions, please contact the project maintainer.
-
----
-**Developed by:**  
-Ahmed Nassar  
-
